@@ -1,0 +1,7 @@
+base   stopforumspam2
+author HokkaidoPerson
+email  dosankomali@yahoo.co.jp
+date   2019-02-06
+name   StopForumSpam 2 Plugin
+desc   Checks whether or not the user is a spammer.  The investigation results can be used in many parts of the wiki, via helper plugin support.
+url    http://www.dokuwiki.org/plugin:stopforumspam2
